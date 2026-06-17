@@ -15,12 +15,12 @@ This repository contains the complete replication code, data documentation, and 
 ## Repository Structure
 
 ```
-namibia-procurement-reform/
+namibia_preferential_procurement/
 │
 ├── notebooks/
 │   └── namibia_procurement_analysis_colab.ipynb
 │
-├── data/                                           ← Not included - see Data Access
+├── data/                                           ← Not included - see Data Access and Download Instructions
 │   ├── Namibia2006_manufacturing_clean.dta
 │   ├── Namibia2006_residual_clean.dta
 │   ├── Namibia2006_retail_and_it_clean.dta
