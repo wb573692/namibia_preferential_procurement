@@ -41,11 +41,11 @@ namibia_preferential_procurement/
 The World Bank Enterprise Survey microdata are **not included** in this repository due to the World Bank's data use terms. They must be downloaded directly from the WBES portal.
 
 1. Go to [enterprisesurveys.org](https://www.enterprisesurveys.org/en/data)
-2. Search for **Namibia** and download the following waves:
-   | **2006** | `.zip` | `Namibia2006_manufacturing_clean.dta` · `Namibia2006_residual_clean.dta` · `Namibia2006_retail_and_it_clean.dta` |
-   | **2014** | `.dta` | `Namibia-2014-full-data.dta` |
-   | **2024** | `.dta` | `Namibia-2024-full-data.dta` |
-4. Place all five `.dta` files in the `data/` directory.
+2. Search for **Namibia** and download the following waves<br>
+   2006: `Namibia2006_manufacturing_clean.dta` · `Namibia2006_residual_clean.dta` · `Namibia2006_retail_and_it_clean.dta`<br>
+   2014: `Namibia-2014-full-data.dta`<br>
+   2024: `Namibia-2024-full-data.dta`<br>
+3. Place all five `.dta` files in the `data/` directory.
 
 ---
 
