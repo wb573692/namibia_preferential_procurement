@@ -4,11 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status: Working Draft](https://img.shields.io/badge/status-working%20draft-yellow.svg)]()
 
----
-
-## Overview
-
-This repository contains the complete replication code, data documentation, and outputs.
 
 ---
 
@@ -18,7 +13,7 @@ This repository contains the complete replication code, data documentation, and 
 namibia_preferential_procurement/
 │
 ├── notebooks/
-│   └── namibia_procurement_analysis_colab.ipynb
+│   └── preferential_procurement_policy_namibia.ipynb
 │
 ├── data/                                           ← Not included - see Data Access and Download Instructions
 │   ├── Namibia2006_manufacturing_clean.dta
@@ -28,8 +23,9 @@ namibia_preferential_procurement/
 │   └── Namibia-2024-full-data.dta
 │
 ├── outputs/
-│   ├── event_study_plot.png
-│   └── namibia_procurement_results.csv
+│
+├── paper/
+│   └── preferential_procurement_policy_namibia.docx
 │
 └── README.md
 ```
